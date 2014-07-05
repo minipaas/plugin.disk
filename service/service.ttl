@@ -10,7 +10,7 @@
 
 <https://id.minipaas.org/minipaas/plugin.disk> a mini:Plugin;
     dc:title "Minipaas ~Disk~"@en;
-    dc:identifier "minipaas/plugins.disk";
+    dc:identifier "minipaas/plugin.disk";
     mini:plugin "disk";
     rdfs:comment "This is the minipaas disk plugin"@en;
     mini:license [
